@@ -4,6 +4,7 @@
   - [Development Environment](#development-environment)
   - [Project 01 - Get to Know Your Tools](#project-01---get-to-know-your-tools)
   - [Project 02 - Starship Interface](#project-02---starship-interface)
+  - [Project 03 - Love-o-Meter](#project-03---love-o-meter)
 
 ## Development Environment
 | Development Environment |                              |
@@ -20,3 +21,6 @@ A simple project demonstrating basic electrical theory and a simple circuit buil
 
 ## Project 02 - Starship Interface
 A project demonstrating the basics of programming with an Arduino board using variables, functions and if()...else statements to read the state of an input and control outputs.
+
+## Project 03 - Love-o-Meter
+A project demonstrating reading analog values and using the Serial Monitor to display information from the program and circuit.

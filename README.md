@@ -6,12 +6,12 @@
   - [Project 02 - Starship Interface](#project-02---starship-interface)
 
 ## Development Environment
-| Development Environment |                 |
-|-------------------------|-----------------|
-|Arduino Board            |Arduino Uno      |
-|IDE                      |Arduino IDE 2.3.3|
-|Operating System         |Linux (Debian)   |
-|Coffee                   |**A Lot**        |
+| Development Environment |                              |
+|-------------------------|------------------------------|
+|Arduino Board            |Arduino Uno                   |
+|IDE                      |Arduino IDE 2.3.3             |
+|Operating System         |Debian GNU/Linux 12 (bookworm)|
+|Coffee                   |**A Lot**                     |
 
 ## Project 01 - Get to Know Your Tools
 A simple project demonstrating basic electrical theory and a simple circuit built from an LED, resistor and push button in both series and parallel.

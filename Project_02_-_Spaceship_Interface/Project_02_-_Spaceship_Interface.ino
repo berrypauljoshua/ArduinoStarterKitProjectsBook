@@ -17,7 +17,7 @@ void pinSetup() {
   pinMode(RED_LED1_PIN,OUTPUT);
 }
 
-void initalLEDBlink() {
+void initialLEDBlink() {
   // Blink LEDs in Sequnce
   digitalWrite(GREEN_LED0_PIN,HIGH);
   delay(500);
@@ -71,7 +71,7 @@ void blinkLED(int duration) {
 
 void setup() {
   pinSetup();
-  initalLEDBlink();
+  initialLEDBlink();
 }
 
 void loop() {

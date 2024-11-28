@@ -1,8 +1,17 @@
 # Arduino Starter Kit Projects Book
 
 - [Arduino Starter Kit Projects Book](#arduino-starter-kit-projects-book)
+  - [Development Environment](#development-environment)
   - [Project 01 - Get to Know Your Tools](#project-01---get-to-know-your-tools)
   - [Project 02 - Starship Interface](#project-02---starship-interface)
+
+## Development Environment
+| Development Environment |              |
+|-------------------------|--------------|
+|Arduino Board            |Arduino Uno   |
+|IDE                      |Arduino IDE 2 |
+|Operating System         |Linux (Debian)|
+|Coffee                   |**A Lot**     |
 
 ## Project 01 - Get to Know Your Tools
 A simple project demonstrating basic electrical theory and a simple circuit built from an LED, resistor and push button in both series and parallel.

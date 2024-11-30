@@ -5,6 +5,7 @@
   - [Project 01 - Get to Know Your Tools](#project-01---get-to-know-your-tools)
   - [Project 02 - Starship Interface](#project-02---starship-interface)
   - [Project 03 - Love-o-Meter](#project-03---love-o-meter)
+  - [Project 04 - Color Mixing Lamp](#project-04---color-mixing-lamp)
 
 ## Development Environment
 | Development Environment |                              |
@@ -24,3 +25,6 @@ A project demonstrating the basics of programming with an Arduino board using va
 
 ## Project 03 - Love-o-Meter
 A project demonstrating reading analog values and using the Serial Monitor to display information from the program and circuit.
+
+## Project 04 - Color Mixing Lamp
+A project demonstrating the technique of Pulse Width Modulation (PWM) to vary the duty cycle of a pin to fade an RGB LED.
